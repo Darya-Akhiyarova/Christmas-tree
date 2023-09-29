@@ -22,7 +22,7 @@ PLA (полилактид),
 PrusaSlicer,
 CorelDraw,*
 
-*Cервис готовых моделей для 3D печати - [Thingiverse](https://www.thingiverse.com/)
+*Cервис готовых моделей для 3D печати - [Thingiverse](https://www.thingiverse.com/)*
 
 Ход работы:
 
